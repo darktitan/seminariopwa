@@ -1,0 +1,45 @@
+{
+    "name":"PWA-seminario",
+    "short_name":"PWA-seminario",
+    "description":"Bienvenid@s a mi aplicacion PWA",
+    "background_color":"#2B2B2B",
+    "theme_color":"#F0DB4F",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-SV",
+    "icons":[
+        {
+            "src":"./assets/images/SeminarioPWA512_183.png",
+            "sizes":"512x183",
+            "type":"image/png"
+        },
+        {
+            "src":"./assets/images/SeminarioPWA256_92.png",
+            "sizes":"256x92",
+            "type":"image/png"
+        },
+        {
+            "src":"./assets/images/SeminarioPWA206_74-.png",
+            "sizes":"206x74",
+            "type":"image/png"
+        },
+        {
+            "src":"./assets/images/SeminarioPWA_300_137.png",
+            "sizes":"383x137",
+            "type":"image/png"
+        },
+        {
+            "src":"./assets/images/SeminarioPWA32_11.png",
+            "sizes":"31x11",
+            "type":"image/png"
+        },
+        {
+            "src":"./assets/images/SeminarioPWA16_6.png",
+            "sizes":"16x6",
+            "type":"image/png"
+        }
+    ]
+
+}
